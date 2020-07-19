@@ -20,14 +20,14 @@
 $mahasiswa = [
     [
     "Nama"=>"Andi Irfan", 
-    "NIM"=>"1911082006",
+    "NIM"=>"1910092006",
     "Prodi"=>"Teknologi Rekayasa Instalasi Listrik", 
     "Email"=>"andi.irfanm@pnp.ac.id",
     "gambar"=>"ai.png"
     ],
     [
     "Nama"=>"Andi Irsyad", 
-    "NIM"=>"1911082026",
+    "NIM"=>"1909082026",
     "Prodi"=>"Teknik Komputer", 
     "Email"=>"an-irydm@pnp.ac.id",
     "gambar"=>"bi.png"
