@@ -1,0 +1,12 @@
+{
+    "name": "andi/pertemuan21",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Andi Irham",
+            "email": "Andi.irhamm@gmail.com"
+        }
+    ]
+}
